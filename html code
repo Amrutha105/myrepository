@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPe html>
 <html>
 	<head>
 		<title>this is html code</title>
@@ -7,7 +7,7 @@
 				border-collapse:collapse;
 			}
 		</style>
-	</head>
+	<head>
 	<body>
 		<center><table border="1px">
 			<caption>The Moblie AMBULANCE-EMRI 108</caption>
@@ -37,7 +37,7 @@
 			</tr>
 			<tr>
 				<td>Top Speed</td>
-				<td>Unknown</td>
+				<td>unknkown</td>
 			</tr>
 			<tr>
 				<td>Break Rate</td>
@@ -59,6 +59,7 @@
 				<td>Fuel Required</td>
 				<td>Pure Petrol 99.9 free Carbon</td>
 			</tr>
-		</table></center>
-	</body
+		</table>
+		</center>
+	</body>
 </html>
